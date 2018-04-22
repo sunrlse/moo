@@ -1,0 +1,26 @@
+{
+  "name": "moo",
+  "description": "nodejs-mongodb",
+  "main": "",
+  "authors": [
+    "enjo"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "node",
+    "mongo"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.0.0"
+  }
+}
