@@ -1,2 +1,3 @@
 # nothing-moo
-exercise--node
+exercise--node mongodb express jade
+
