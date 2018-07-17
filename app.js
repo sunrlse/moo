@@ -5,7 +5,7 @@ var bodyParser = require('body-parser');
 var mongoose = require('mongoose');
 var Movie = require('./models/movie');
 var serveStatic = require('serve-static');
-var port = process.env.PORT || 3000;
+var port = process.env.PORT || 3100;
 var app = express();
 // 传入本地数据库
 mongoose.connect('mongodb://localhost/moo');
