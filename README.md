@@ -1,5 +1,6 @@
-# nothing-moo
-exercise--node mongodb express jade
+# 电影管理后台
+
+node mongodb express jade
 
 ## Run
 ```
